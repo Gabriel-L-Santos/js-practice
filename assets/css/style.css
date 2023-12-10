@@ -9,3 +9,15 @@
     font-family: 'Gabarito', sans-serif;
     background-color: aqua;
 }
+
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+#resultado {
+    font-size: 18px;
+    margin-top: 20px;
+}
