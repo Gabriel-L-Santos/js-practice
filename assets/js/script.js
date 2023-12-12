@@ -6,7 +6,7 @@ function capturarInformacao() {
     // Verifica se a informação não é nula ou vazia
     if (informacaoDigitada !== null && informacaoDigitada !== "") {
       // Exibe a informação na página HTML
-      document.getElementById("resultado").innerText = "Olá, " + informacaoDigitada + "! Tudo certo?";
+      document.getElementById("resultado").innerText = "Olá, " + informacaoDigitada + "! 😁";
     } else {
       alert("Você não digitou seu nome.");
     }
