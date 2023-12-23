@@ -2,12 +2,12 @@
 
 ## Deploy do projeto
 
-<!-- <https://slideshow-gabriel-l-santos.vercel.app/> -->
+<https://registo-de-nomes-gabriel-l-santos.vercel.app/>
 
-<!-- <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
-</p> -->
+<img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
+</p>
 
-<!-- ![Showcase do Slideshow - gif](./assets/img-gif-readme/slideshow-showcase.gif) -->
+![Showcase do Registo de Nomes - gif](./assets/img-gif-readme/registo-de-nomes-showcase.gif)
 
 Projeto feito em HTML, CSS e JavaScript.
 
